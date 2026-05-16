@@ -86,6 +86,7 @@ Bug Bounty oder im Lab entdecke.
 
 ## Verwandte Repositories
 
+- [bug-bounty-reports](https://github.com/JBMTP07/bug-bounty-reports) — sanitisierte Public-Reports realer Findings (Chained RCE, Command Injection)
 - [HTB-Writeups](https://github.com/JBMTP07/HTB-Writeups) — meine deutschsprachigen Walkthroughs zu retired HackTheBox Machines
 - [JBMTP07.github.io](https://github.com/JBMTP07/JBMTP07.github.io) — mein Pentest-Portfolio
 
